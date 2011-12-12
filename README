@@ -1,0 +1,11 @@
+Aufgabe NetzbasierteDatenVerarbeitung Uni-Potsdam
+ - Mandelbrot-Menge mit MPI berechnen und darstellen
+
+Autor : Philip Ullrich
+
+Quellen
+# Wikipedia mit Pseudo-Code und einer relativ Ausführlichen Erklärung
+ - http://de.wikipedia.org/wiki/Mandelbrot-Menge#Programmbeispiel
+
+# Ein MPI-Tutorial (Uni-Halle)
+ - http://www2.informatik.uni-halle.de/lehre/mpi-tutorial/index.htm
